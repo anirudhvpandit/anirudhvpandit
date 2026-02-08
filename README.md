@@ -1,38 +1,45 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+%5BAnirudh+Pandit%5D;Full+Stack+Developer;Building+Scalable+Web+Experiences;Turning+Ideas+Into+Products" /> <br/> <img src="https://komarev.com/ghpvc/?username=anirudhvpandit&label=Profile+Views&style=for-the-badge&color=6C63FF" /> </div>
-✨ Who Am I?
+<br/> <br/> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=34&pause=1400&color=E0A3FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Anirudh+Pandit;Full+Stack+Developer;Elegant+Code.+Bold+Ideas.;Turning+Vision+Into+Beautiful+Software" /> <br/> <br/> <img src="https://komarev.com/ghpvc/?username=anirudhvpandit&label=Profile+Views&style=for-the-badge&color=E0A3FF" /> </div> <br/> <br/> <br/>
+✨ About Me
+<br/>
 
-A Full Stack Developer who loves clean code, scalable systems,
-and beautifully engineered products.
+💗 Confident. Creative. Intentional.
+I build software that is not only scalable and performant —
+but thoughtfully designed and beautifully engineered.
 
-🚀 Full Stack Developer (Frontend + Backend)
+<br/>
 
-🧠 Strong in architecture, APIs & databases
+🌸 Full Stack Developer (Frontend + Backend)
+🌷 Strong in clean architecture, APIs & databases
+✨ Currently growing in System Design & Cloud-native development
+🤍 Open to startups, SaaS & meaningful collaborations
+💎 Passionate about turning ideas into polished digital experiences
 
-🌱 Learning System Design & Cloud-native development
-
-🤝 Open to startup, SaaS & open-source collaborations
-
-💼 Passionate about turning ideas into production-ready software
-
-🧬 Tech DNA
-🧑‍💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=js,ts,python,sql&theme=dark" /> </p>
-🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" /> </p>
+<br/> <br/> <br/>
+🧬 Tech Stack
+<br/>
+<br/>
+💅 Languages
+<br/> <p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,python,sql&theme=dark" /> </p> <br/> <br/>
+🎀 Frontend
+<br/> <p align="left"> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" /> </p> <br/> <br/>
 🧠 Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> </p>
-🗄 Databases
-<p> <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" /> </p>
-☁ Cloud & DevOps
-<p> <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=dark" /> </p>
-🚀 Highlighted Work
-🌟 Project Alpha
+<br/> <p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" /> </p> <br/> <br/>
+🗄️ Databases
+<br/> <p align="left"> <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" /> </p> <br/> <br/>
+☁️ Cloud & DevOps
+<br/> <p align="left"> <img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=dark" /> </p> <br/> <br/> <br/>
 
 
-📊 GitHub Performance
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anirudhvpandit&show_icons=true&hide_border=true&theme=tokyonight" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhvpandit&hide_border=true&theme=tokyonight" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhvpandit&layout=compact&hide_border=true&theme=tokyonight"/> </p>
+
+
+<br/> <br/> <br/>
+📊 GitHub Presence
+<br/> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anirudhvpandit&show_icons=true&hide_border=true&theme=tokyonight" height="170"/> </p> <br/> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhvpandit&hide_border=true&theme=tokyonight" height="170"/> </p> <br/> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhvpandit&layout=compact&hide_border=true&theme=tokyonight"/> </p> <br/> <br/> <br/>
 🌐 Let’s Connect
-<p align="center"> <a href="https://linkedin.com/in/anirudhvivekpandit"> <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="https://anirudhpandit.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-Live-6C63FF?style=for-the-badge"/> </a> </p>
+<br/> <p align="center"> <a href="https://linkedin.com/in/anirudhvivekpandit"> <img src="https://img.shields.io/badge/LinkedIn-Anirudh%20Pandit-0A66C2?style=for-the-badge&logo=linkedin"/> </a> </p> <br/> <p align="center"> <a href="https://anirudhpandit.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-Anirudh%20Pandit-E0A3FF?style=for-the-badge"/> </a> </p> <br/> <br/> <br/>
 <div align="center">
-⭐ Beautiful code deserves appreciation — star a repo if you like my work.
-</div>
+💗 Beautiful code. Soft confidence. Strong impact.
+
+✨ Star a repo if my work speaks to you.
+
+</div> <br/> <br/>
