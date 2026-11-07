@@ -1,190 +1,228 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:030712,25:071A32,55:103B68,80:1265A5,100:38BDF8&text=ANIRUDH%20PANDIT&fontColor=FFFFFF&fontSize=64&fontAlignY=40&desc=ENGINEERING%20%E2%80%A2%20TECHNOLOGY%20%E2%80%A2%20STRATEGY&descSize=16&descAlignY=61&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:050D1A,35:0B2545,70:124B83,100:1688D4&text=ANIRUDH%20PANDIT&fontColor=FFFFFF&fontSize=58&fontAlignY=42&desc=ENGINEERING%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descSize=15&descAlignY=63&animation=fadeIn" width="100%" />
 
 <br/>
 
-<h2>Engineering Ideas Into Impact.</h2>
+### Building Technology. Connecting Engineering with Business.
 
-<p>
-  <i>Building at the intersection of technology, industrial innovation and business.</i>
-</p>
+*Bridging software engineering, industrial technology and business innovation.*
 
 <br/>
 
 <a href="https://github.com/anirudhvpandit">
-  <img src="https://komarev.com/ghpvc/?username=anirudhvpandit&style=flat-square&color=38BDF8&label=VISITORS" />
+  <img src="https://komarev.com/ghpvc/?username=anirudhvpandit&style=for-the-badge&color=1677C8&label=PROFILE+VIEWS" />
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/MUMBAI-INDIA-0B2545?style=flat-square&labelColor=071A32" />
-&nbsp;
-<img src="https://img.shields.io/badge/PROJECT%20MANAGEMENT-TECHNOLOGY-1265A5?style=flat-square&labelColor=071A32" />
-
-<br/><br/>
-
-<a href="https://github.com/anirudhvpandit">GITHUB</a>
-&nbsp; • &nbsp;
-<a href="https://www.linkedin.com/">LINKEDIN</a>
-&nbsp; • &nbsp;
-<a href="https://jay-jain.vercel.app">PORTFOLIO REFERENCE</a>
+<img src="https://img.shields.io/badge/LOCATION-Mumbai%2C%20India-102A43?style=for-the-badge&labelColor=071A2F" />
+<img src="https://img.shields.io/badge/FOCUS-Technology%20%26%20Product-1677C8?style=for-the-badge&labelColor=071A2F" />
 
 </div>
-
-<br/>
-
-<div align="center">
-
-### 01 — THE PROFILE
-
-**Technology. Engineering. Business.**
-
-</div>
-
-I'm **Anirudh Pandit**, a technology professional focused on translating complex engineering challenges into practical technology solutions.
-
-Currently working as a **Project Manager at Abhitech Energycon Limited**, I operate across industrial technology, enterprise software development and digital transformation.
-
-My perspective combines the technical foundations of software engineering with the broader vision of product development, operational excellence and business strategy.
-
-I am particularly interested in how emerging technologies can reshape traditional industries and create scalable, intelligent business systems.
-
-<br/>
-
-<div align="center">
-
-| CURRENT ROLE | INDUSTRY | LOCATION |
-|:---:|:---:|:---:|
-| Project Manager | Industrial Technology | Mumbai, India |
-| Abhitech Energycon | Automation & Enterprise Software | Maharashtra |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 02 — AREAS OF EXPERTISE
-
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 💻
-
-**Software Engineering**
-
-Full-stack development, backend architecture, APIs and application development.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### ⚙️
-
-**Industrial Technology**
-
-Industrial automation, process intelligence, engineering systems and Industry 4.0.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### ◈
-
-**Technology Management**
-
-Project leadership, product development, digital transformation and business strategy.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 03 — THE JOURNEY
-
-</div>
-
-<table>
-<tr>
-<td width="110" align="center">
-
-**01**
-
-</td>
-<td>
-
-**Software Engineering**
-
-Developing a technical foundation across full-stack development, backend systems and software architecture.
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**02**
-
-</td>
-<td>
-
-**Industrial Technology**
-
-Applying software and technology to industrial environments, automation and enterprise workflows.
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**03**
-
-</td>
-<td>
-
-**Project & Product Leadership**
-
-Connecting engineering execution with project delivery, product thinking and organisational objectives.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-### 04 — EDUCATION
-
-**FULL SAIL UNIVERSITY**
-
-Winter Park, Florida, United States
-
-Bachelor's Degree in Game & Interactive Media Design
-
-<br/>
-
-### 05 — CURRENT INTERESTS
-
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-071A32?style=for-the-badge&logo=openai&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/INDUSTRY%204.0-071A32?style=for-the-badge&logo=siemens&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/ENTERPRISE%20TECH-071A32?style=for-the-badge&logo=microsoft&logoColor=38BDF8" />
-
-<img src="https://img.shields.io/badge/PRODUCT%20STRATEGY-071A32?style=for-the-badge&logo=target&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/TECHNOLOGY%20LEADERSHIP-071A32?style=for-the-badge&logo=abstract&logoColor=38BDF8" />
-
-<br/><br/>
 
 ---
 
-### Building Beyond Boundaries.
+## 01. About Me
 
-*Where engineering meets ambition, innovation becomes possible.*
+I'm **Anirudh Pandit**, a technology professional based in Mumbai, India, working at the intersection of software engineering, industrial technology and business management.
+
+Currently serving as a **Project Manager at Abhitech Energycon Limited**, I work across technology-driven initiatives involving industrial automation, enterprise software and digital transformation.
+
+My background combines hands-on software development with cross-functional project leadership, product development and an interest in technology strategy.
+
+I believe the most meaningful technological advancements happen when engineering excellence meets business vision.
+
+- 💼 **Current Role:** Project Manager — Abhitech Energycon Limited
+- 🏭 **Industry:** Industrial Technology & Automation
+- 💻 **Technical Background:** Full-Stack & Backend Development
+- 🎓 **Education:** Game & Interactive Media Design — Full Sail University, USA
+- 🚀 **Interests:** Artificial Intelligence, Industry 4.0 & Enterprise Technology
+- 🌐 **Location:** Mumbai, Maharashtra, India
+
+---
+
+## 02. Technology & Engineering
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,cs,sql&theme=dark" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+
+### Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,dotnet&theme=dark" />
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mysql,linux,nginx,git,github&theme=dark" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel&theme=dark" />
+
+</div>
+
+---
+
+## 03. Selected Projects
+
+*Engineering solutions focused on industrial intelligence, enterprise software and process optimisation.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 AbhiFTM
+
+**Furnace Flame Temperature Mapping**
+
+Industrial software for furnace temperature mapping, thermal visualisation and process monitoring.
+
+**Technology**
+
+`React` `Python/.NET` `MySQL` `Data Visualisation`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ SmartCoke
+
+**Industrial Process Intelligence**
+
+A software initiative focused on industrial process monitoring, data management and operational insights.
+
+**Technology**
+
+`Python` `Flask` `MySQL` `Analytics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 AbhiSphere
+
+**Client Accounting & Advisory Platform**
+
+An enterprise software initiative focused on client accounting, advisory management and streamlined business workflows.
+
+**Focus**
+
+`Enterprise Software` `Product Development` `Business Technology`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 ThermoCore X
+
+**Engineering Calculation Platform**
+
+An engineering calculation application supporting enthalpy analysis, historical records and backend processing.
+
+**Technology**
+
+`Node.js` `Express` `REST APIs` `JSON`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 04. Areas of Interest
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-071A2F?style=for-the-badge&logo=openai&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Industrial_Automation-071A2F?style=for-the-badge&logo=siemens&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Enterprise_Technology-071A2F?style=for-the-badge&logo=microsoft&logoColor=58A6FF" />
+
+<img src="https://img.shields.io/badge/Digital_Transformation-071A2F?style=for-the-badge&logo=databricks&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Product_Strategy-071A2F?style=for-the-badge&logo=target&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Technology_Leadership-071A2F?style=for-the-badge&logo=abstract&logoColor=58A6FF" />
+
+</div>
+
+---
+
+## 05. Certifications
+
+| Certification | Issuing Organisation |
+|:---|:---|
+| Google Project Management Professional Certificate | Google |
+| Google IT Support Professional Certificate | Google |
+| Google Digital Marketing & E-commerce | Google |
+
+---
+
+## 06. GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anirudhvpandit&show_icons=true&hide_border=true&bg_color=071A2F&title_color=58A6FF&icon_color=58A6FF&text_color=DCE6F1&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhvpandit&layout=compact&hide_border=true&bg_color=071A2F&title_color=58A6FF&text_color=DCE6F1" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,45:103B68,100:030712&height=120&section=footer" width="100%" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=anirudhvpandit&theme=transparent&hide_border=true&background=071A2F&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=DCE6F1&dates=8BABC9" />
+
+</div>
+
+---
+
+## 07. Education
+
+<div align="center">
+
+### 🎓 Full Sail University
+
+**Winter Park, Florida, United States**
+
+Bachelor's Degree in Game & Interactive Media Design
+
+</div>
+
+---
+
+## 08. Beyond the Code
+
+Technology is not just about writing software. It is about identifying opportunities, solving complex problems and creating systems that make organisations more effective.
+
+My long-term interests include:
+
+- **Technology Entrepreneurship** — Building and scaling technology-driven organisations.
+- **Enterprise Innovation** — Developing software products that solve real business problems.
+- **Engineering Leadership** — Connecting technical execution with strategic decision-making.
+- **Digital Transformation** — Modernising traditional industries through intelligent technology.
+- **Business Strategy** — Exploring the intersection of technology, management and finance.
+
+---
+
+## 09. Let's Connect
+
+<div align="center">
+
+I'm always interested in connecting with people working across technology, engineering, entrepreneurship and innovation.
+
+<br/>
+
+<a href="https://github.com/anirudhvpandit">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### Engineering creates possibilities. Vision turns them into impact.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1688D4,50:0B2545,100:050D1A&height=120&section=footer" width="100%" />
 
 </div>
